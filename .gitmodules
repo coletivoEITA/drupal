@@ -1,0 +1,3 @@
+[submodule "sites/all/modules/etherpad"]
+	path = sites/all/modules/etherpad
+	url = https://github.com/coletivoEITA/drupal-etherpad.git
